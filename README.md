@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/3do/alone-in-the-dark)**.
+
 Traducción al **español de España** de *Alone in the Dark* para **3DO** (Interplay, 1994), la
 conversión de Infogrames e I·Motion del clásico de terror de 1992: Edward Carnby o Emily Hartwood
 entran en Derceto, la mansión de Luisiana donde Jeremy Hartwood se ha quitado la vida. Se ha
